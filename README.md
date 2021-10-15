@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Aceu1
-- 👀 I’m interested in learning new stuffs.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on Automation and Bot's?
+- 👀 I’m interested in Automation and AI.
+- 🌱 I’m currently learning Backend
+- 📖 Primary Languages are Javascript/NodeJs and Typescript
+- 📘 Secondary Language is Python
 - 📫 How to reach me aceu687@gmail.com
 
 <!---
