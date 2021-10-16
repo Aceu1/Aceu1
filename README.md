@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aceu1
-- 👀 I’m interested in Automation and AI.
+- 👀 I’m interested in Automation and AI
 - 🌱 I’m currently learning Backend
 - 📖 Primary Languages are Javascript/NodeJs and Typescript
 - 📘 Secondary Language is Python
